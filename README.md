@@ -1,6 +1,5 @@
 # test
 
-hallo
-hallo
-*hallo*
+hallo +
+hallo + *hallo* +
 *hallo*
